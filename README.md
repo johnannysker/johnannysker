@@ -2,7 +2,13 @@
 <h5>Curso de Sistemas de Informação pela Unifacisa - PB <br/>
 Montagem e manutenção de micro pela Microlins </h5>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?authuser=0&ogbl) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/inbox/id/AQQkADAwATY0MDABLTkzYTQtYTUwMi0wMAItMDAKABAAL5HdTJR2SEO%2BPU1IUU7%2BxQ%3D%3D)
+<div>
+<a href="mailtom:joh4ao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_black"><a/>
+<a href="mailtom:john-ao@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_black"><a/>
+<a href="https://www.linkedin.com/in/john-annyskier-13519819b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+##
 
 <div>
 <img height="230em" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnannysker&theme=midnight-purple"/>
