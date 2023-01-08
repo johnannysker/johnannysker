@@ -1,4 +1,4 @@
-<h3>🖖🏼 Saldações! Eu sou John Annyskier<h3/>
+<h3>🏼 Saldações! Eu sou John Annyskier 🖖<h3/>
 <h5>Curso de Sistemas de Informação pela Unifacisa - PB <br/>
 Montagem e manutenção de micro pela Microlins </h5>
 
