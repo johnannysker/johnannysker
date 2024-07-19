@@ -1,6 +1,4 @@
 <h3>🖖 Saldações! Eu sou John Annyskier <h3/>
-<h5>Curso de Sistemas de Informação pela Unifacisa - PB <br/>
-Montagem e manutenção de micro pela Microlins </h5>
 
 <div>
 <a href="mailtom:joh4ao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_black"><a/>
