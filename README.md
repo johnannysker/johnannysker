@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-  <img height="230em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnannysker&theme=midnight-purple&layout=compact&hide_progress=true" />
+  <img height="230em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnannysker&theme=midnight-purple&layout=compact" />
   <img height="230em" width="48%" src="https://github-readme-stats.vercel.app/api?username=johnannysker&show_icons=true&theme=midnight-purple&include_all_commits=true" />
 </div>
 
@@ -27,18 +27,18 @@
 <div align="center">
   <h4>🚀 Tecnologias e Skills</h4>
   
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" />
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" />
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" />
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" />
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" />
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" />
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" />
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" />
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
+  <div style="display: inline-block; text-align: center;">
+    <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" style="margin: 8px;"/>
+    <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" style="margin: 8px;"/>
+    <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" style="margin: 8px;"/>
+    <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" style="margin: 8px;"/>
+    <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" style="margin: 8px;"/>
+    <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" style="margin: 8px;"/>
+    <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" style="margin: 8px;"/>
+    <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" style="margin: 8px;"/>
+    <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" style="margin: 8px;"/>
+    <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" style="margin: 8px;"/>
+    <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" style="margin: 8px;"/>
   </div>
 </div>
 
@@ -48,12 +48,12 @@
 <div align="center">
   <h4>💻 IDEs e Ferramentas</h4>
   
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" />
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" />
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" />
-    <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" />
+  <div style="display: inline-block; text-align: center;">
+    <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" style="margin: 8px;"/>
+    <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" style="margin: 8px;"/>
+    <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" style="margin: 8px;"/>
+    <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" style="margin: 8px;"/>
   </div>
 </div>
 
-<br><br>
+<br>
